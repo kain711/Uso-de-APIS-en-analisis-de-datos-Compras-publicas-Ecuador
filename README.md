@@ -4,3 +4,8 @@ En el presente repositorio se muestra como usar la API del portal de compras pub
 ademas se implementa una interfaz web con streamlit.
 Si bien el desarrollo web es parte del area de desarrollo de software, es importante conocer como implementar 
 un sitio web basico sin conocimientos avanzados de programacion
+
+para iniciar la pagina web usar el comando
+ '''python  
+    Streamlit run consumo_api.py
+'''
